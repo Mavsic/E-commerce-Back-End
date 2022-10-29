@@ -1,6 +1,6 @@
 const { config } = require('dotenv');
 const express = require('express');
-const Connection = require('mysql2/typings/mysql/lib/Connection');
+// const Connection = require('mysql2/typings/mysql/lib/Connection');
 const routes = require('./routes');
 // import sequelize connection
 const sequelize = require('./config/connection');
