@@ -26,6 +26,12 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock-Up
 
-![]();
+![mock-up](./Screenshot%202022-10-31%20105938.png);
+
+## Video
+
+[link to the video](./video.webm)
 
 ## GitHub
+
+https://github.com/Mavsic/E-commerce-Back-End
